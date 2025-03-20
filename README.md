@@ -1,6 +1,6 @@
 # Deployed frontend URL
 
-https://dp-automated-trading-web-dev.azurewebsites.net/
+https://dp-automated-trading-web.onrender.com/
 
 # Getting Started with Create React App
 
@@ -56,5 +56,4 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Paljko Urbanek ###
 ### xurbanek 104620 ###
-### xurbanek@stuba.sk ###
 ### palkourbanek45@gmail.com ###
